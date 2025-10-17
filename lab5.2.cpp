@@ -1,5 +1,5 @@
 ﻿// Лабораторна робота №5.2
-// Обчислення arcsin(x) за рядом Тейлора
+// double
 #include <iostream>
 #include <iomanip>
 #include <cmath>
